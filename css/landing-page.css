@@ -170,11 +170,13 @@ p.copyright {
 }
 
 p.copy {
-    margin: 14px 0 14px 0;
+    margin: 15px 0 14px 0;
     font-weight: 200;
+    font-size: 1.25em;
 }
 
 p.caption {
     margin: 7px 0 7px 0;
     font-weight: 300;
+    font-size: 1.25em;
 }
