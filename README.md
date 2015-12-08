@@ -9,6 +9,10 @@ _Understanding how better to do capacity planning and alerting for microservice-
 3. [Website](http://harvard-team-pivot.github.io/elastic-compute/)
 4. [GitHub repository](https://github.com/harvard-team-pivot/elastic-compute).  See the `master` branch for the project files and the `gh-pages` branch for the website files.
 5. [Video](#)
+<<<<<<< HEAD
 6. [Website design sketches](https://github.com/harvard-team-pivot/elastic-compute/raw/master/website-design/Elastic%20Compute%20-%20Web%20Design.pdf)
+=======
+6. [Website design sketches](#)
+>>>>>>> 67cfd38f45273e945a9fa97b201ba3a3520dc242
 7. [Source data](#)
 8. [References and sources](#)
