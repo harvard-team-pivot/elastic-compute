@@ -156,11 +156,11 @@
                 <p class="lead">Take your time and walk through the presentation deck for yourself.</p>
                 <a href="presentation/index.html">Slideshow</a>
                 </br>
-                <a href="presentation/elastic-compute.pdf">PDF file</a>
+                <a href="presentation/elastic-compute.pdf">PDF file with speaker notes</a>
 
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                <img class="img-responsive" src="img/presentation-skills.jpg" alt="">
+                <img class="img-responsive" src="img/presentation-skills.jpg" alt="Presentation">
             </div>
         </div>
 
@@ -220,16 +220,13 @@
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <p class="copy">
-                    Datacenters around the world
 
 
                     <figure>
-                        <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y"><img
-                                class="img-responsive" src="img/datacenters-map.png" alt="Datacenters around the world"></a>
-
-                        <figcaption>Fig 1. - Datacenters around the world.<br>
-                            <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y">Click
-                                the image above to view our interactive map</a>
+                        <img class="img-responsive" src="img/datacenter.jpg" alt="Datacenter">
+                        <figcaption>
+                            (source: <a href="http://topwalls.net/server-data-center-lights-neon-computer-server-blue/">topwalls.net</a>
+                            )
                         </figcaption>
                     </figure>
                 </p>
@@ -237,12 +234,17 @@
                 <p class="copy">
                     Our project is motivated to reduce waste by "right-sizing" energy consumption by linking it more
                     directly to demand. Not many have seen the inside of a large Data Center, but these are colossal
-                    energy-hungry ventures on a scale that is difficult to appreciate without seeing one in person.
+                    energy-hungry ventures[<a href="references.html">1</a>] on a scale that is difficult to appreciate
+                    without seeing one in person.
+
+                    <br>
+                    <br>
+
                     Everything in a data center is planned around watt usage. Over half of the wattage goes to server
                     load and most of the rest to cooling equipment. If we can better predict and scale compute resource
                     load more efficiently we have the opportunity to effect change in the United States alone at about
                     the 9.1 TWhr (Terawatts per hour) level and, perhaps, slow the projected rise in consumption by 2020
-                    to 13.9 TWhr [<a href="references.html">3</a>].
+                    to 13.9 TWhr [<a href="references.html">2</a>].
                     <br>
                     <br>
                     <img class="img-responsive" src="img/stop-bg.jpg" alt="">
@@ -275,7 +277,7 @@
 
                 <p class="copy">
                     Our inferential goals are to understand how better to do capacity planning and alerting for
-                    microservice-based, container-managed clusters of compute resources. We would like to learn what
+                    microservice-based, container-managed clusters of compute resources. We tried to learn what
                     makes a good alert threshold, such that we can predictably recommend actions that will keep an
                     application highly available under various demand scenarios ranging from low to high. Effectively,
                     we want to investigate the elasticity of supply and demand on compute resources so that we can make
@@ -304,52 +306,88 @@
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
 
-                <figure>
-                    <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y"><img
-                            class="img-responsive" src="img/datacenters-map.png" alt="Datacenters around the world"></a>
+                <p class="copy">
+                    Datacenters around the world
 
-                    <figcaption>Fig 1. - Datacenters around the world.<br>
-                        <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y">Click
-                            the image above to view our interactive map</a>
-                    </figcaption>
-                </figure>
+                    <figure>
+                        <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y"><img
+                                class="img-responsive" src="img/datacenters-map.png" alt="Datacenters around the world"></a>
 
-                <br>
-                <img class="img-responsive" src="img/water.jpg" alt="">
-
-                <br>
-
-                <img class="img-responsive" src="img/lit-up.jpg" alt="">
-            </div>
-
-
-            <p class="copy">
-                <br><br><br><br>
-
-
+                        <figcaption>Fig 1. - Datacenters around the world.<br>
+                            <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y">Click
+                                the image above to view our interactive map</a>
+                        </figcaption>
+                    </figure>
                 </p>
-            <!-- go wide and inline for analysis with images -->
-
-            <div class="">
-
-
-                <figure>
-                    <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y"><img
-                            class="img-responsive" src="img/datacenters-map.png" alt="Datacenters around the world"></a>
-
-                    <figcaption>Fig 1. - Datacenters around the world.<br>
-                        <a href="https://public.tableau.com/views/Datacentersaroundtheworld/Datacentermap?:embed=y&:display_count=yes&:showTabs=y">Click
-                            the image above to view our interactive map</a>
-                    </figcaption>
-                </figure>
 
                 <p class="copy">
-                Now is the time for all good men to come to the aid of the country.  Now is the time for all good men to come to the aid of the country.Now is the time for all good men to come to the aid of the country.Now is the time for all good men to come to the aid of the country.Now is the time for all good men to come to the aid of the country.Now is the time for all good men to come to the aid of the country.Now is the time for all good men to come to the aid of the country.
+
+                    <figure>
+                        <img class="img-responsive" src="visualizations/dc-records-by-country.png"
+                             alt="Datacenter count per country">
+                        <figcaption>
+                            Fig 2. - Datacenter count per country (includes datacenters, co-location centers, shared and
+                            virtual web-hosting providers)
+                        </figcaption>
+                        (data source: <a href="https://github.com/client9/ipcat">IP catalog project</a> )
+                    </figure>
                 </p>
 
 
             </div>
 
+        </div>
+
+        <div class="row">
+            <!-- Please do not go above this line -->
+
+            <div class="">
+                <hr>
+                <br>
+
+                <p class="copy">
+                    We started by analyzing the dataset provided to us by <a href="http://pivotal.io">Pivotal</a> from
+                    their <a href="http://run.pivotal.io/">Pivotal Web Services</a> platform.
+                    This is largest public <a href="https://www.cloudfoundry.org/">Cloud Foundry</a> platform currently
+                    in operation. Essentially, Cloud Foundry is and open-source well orchestrated container platform
+                    that allows many
+                    applications to scale easily in and out.
+                    <br>
+                    This data provided us insight into the nature of a completely container-based approach.
+
+                    We started by analyzing a general container metric which gave us the count of containers running on
+                    Cloud Foundry. We found that the average application ran on one instance (container)
+                </p>
+                <figure>
+                    <img class="img-responsive" src="visualizations/container-metrics-saas-overview.png"
+                         alt="">
+                    <figcaption>
+                    </figcaption>
+                </figure>
+            </div>
+
+
+            <!-- ### Start copy from here to add a new section of image followed by analysis ### -->
+            <div class="">
+                <br><br>
+
+                <p class="copy">
+                    Robert/Sean: Copy me to add a new section of analysis with a viz. See the "### Start copy" and "###
+                    End copy" comments in the code and just copy a new block for each.
+                </p>
+                <figure>
+                    <img class="img-responsive" src="img/viz-here.png"
+                         alt="">
+                    <figcaption>
+                        Fig #. - Caption
+                    </figcaption>
+                </figure>
+
+            </div>
+            <!-- ### End copy from here to add a new section of image followed by analysis ### -->
+
+
+            <!-- Please do not go below this line -->
         </div>
 
     </div>
