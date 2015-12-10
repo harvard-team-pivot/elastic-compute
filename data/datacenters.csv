@@ -1,4 +1,4 @@
-IP start, IP end, Datacenter Owner, URL
+ip_start, ip_end, datacenter_provider, provider_url
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
 5.34.182.0,5.34.183.255,UA Servers,https://itldc.com/
