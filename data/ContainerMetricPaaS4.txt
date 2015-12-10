@@ -1,0 +1,471 @@
+Starting the nozzle
+Hit Ctrl+c to exit
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886693973 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:82 cpuPercentage:0.6733621536585536 memoryBytes:534069248 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886743600 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:46 cpuPercentage:0.8560781298875236 memoryBytes:534589440 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886800494 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:94 cpuPercentage:0.9681222979757972 memoryBytes:518758400 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886819792 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:90 cpuPercentage:0.8629005734772807 memoryBytes:566239232 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886834681 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:78 cpuPercentage:0.8383698219590673 memoryBytes:540778496 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886849317 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:6 cpuPercentage:0.48159461098611656 memoryBytes:557494272 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886913135 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:62 cpuPercentage:0.6329768727687013 memoryBytes:562794496 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187886983542 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"0851aa07-12af-44bf-ba6d-60c91eff4e1b" instanceIndex:0 cpuPercentage:0.02032048936772952 memoryBytes:106582016 diskBytes:102297600 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887003976 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:18 cpuPercentage:0.5343826519518451 memoryBytes:559644672 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887039319 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:34 cpuPercentage:0.5446545188938554 memoryBytes:554782720 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887059041 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:26 cpuPercentage:0.5118530735548069 memoryBytes:558968832 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887076489 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"24103d4e-df8d-4b44-b1e2-86a92a8aff74" instanceIndex:0 cpuPercentage:0.023203094113359614 memoryBytes:5570560 diskBytes:36556800 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887093280 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:97 cpuPercentage:0.8248722160455029 memoryBytes:542564352 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887109232 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:38 cpuPercentage:0.5725798040178919 memoryBytes:550830080 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887157243 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:50 cpuPercentage:0.7932795014381446 memoryBytes:547364864 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887179356 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:4 cpuPercentage:0.4958289198046748 memoryBytes:553562112 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887196374 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:70 cpuPercentage:1.0678345274901908 memoryBytes:531816448 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887213163 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"6316a187-0935-4687-82e2-99f44a372a68" instanceIndex:0 cpuPercentage:0.0026754819263537237 memoryBytes:2666496 diskBytes:35680256 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887230715 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:58 cpuPercentage:0.8266119364283999 memoryBytes:540860416 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887247597 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:66 cpuPercentage:0.9724148714197837 memoryBytes:540958720 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887264340 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:42 cpuPercentage:1.1161111158166606 memoryBytes:540909568 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887306282 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:14 cpuPercentage:0.4942905640160765 memoryBytes:556691456 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887326708 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:74 cpuPercentage:0.8424748032299544 memoryBytes:540696576 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887342976 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:22 cpuPercentage:0.5787144862826588 memoryBytes:558338048 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887360550 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:54 cpuPercentage:0.8797405990612369 memoryBytes:560726016 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887427893 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:30 cpuPercentage:0.5181378728780329 memoryBytes:562122752 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887450285 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:2 cpuPercentage:0.52628907686597 memoryBytes:558383104 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887471112 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:86 cpuPercentage:3.2027262387601234 memoryBytes:538341376 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716187887490999 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"247682bf-fc34-4708-8453-6636dcb85079" instanceIndex:0 cpuPercentage:0.020093689280806796 memoryBytes:6402048 diskBytes:47775744 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606524280 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:84 cpuPercentage:1.253126254615511 memoryBytes:536600576 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606577911 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:36 cpuPercentage:0.5063241214682324 memoryBytes:556888064 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606597942 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:92 cpuPercentage:1.2976248476418126 memoryBytes:533905408 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606615001 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:76 cpuPercentage:1.1707677889950687 memoryBytes:526876672 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606630586 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:48 cpuPercentage:0.9947523528100141 memoryBytes:543592448 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606649494 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:88 cpuPercentage:0.904909117316123 memoryBytes:529551360 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606663824 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:28 cpuPercentage:1.8574411819507712 memoryBytes:557088768 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606677800 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:40 cpuPercentage:0.9494204888739555 memoryBytes:528883712 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606692155 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:10 cpuPercentage:0.7007347037401238 memoryBytes:560648192 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606708253 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:60 cpuPercentage:1.0764350294233673 memoryBytes:540246016 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606722938 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:64 cpuPercentage:0.764081680768566 memoryBytes:562061312 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606737281 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:20 cpuPercentage:0.622339832635687 memoryBytes:546185216 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606751539 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:80 cpuPercentage:0.6191961838940551 memoryBytes:531095552 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606767106 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:44 cpuPercentage:0.876345463096052 memoryBytes:547213312 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606786160 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:12 cpuPercentage:0.5367175654145403 memoryBytes:555192320 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606802583 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:52 cpuPercentage:0.746886006842107 memoryBytes:552034304 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606818600 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:68 cpuPercentage:0.6013481049399594 memoryBytes:542650368 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606832844 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:24 cpuPercentage:0.5425403162820612 memoryBytes:566194176 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606849052 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:72 cpuPercentage:1.0958124093016082 memoryBytes:538607616 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606863295 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:8 cpuPercentage:0.7206877274671581 memoryBytes:536145920 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606899429 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:32 cpuPercentage:0.5576424174620768 memoryBytes:551092224 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606918372 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:95 cpuPercentage:1.1444530096745993 memoryBytes:533286912 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606933636 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:56 cpuPercentage:0.7194161702572375 memoryBytes:552935424 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606949715 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:98 cpuPercentage:0.8302353519270861 memoryBytes:536252416 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606965832 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:16 cpuPercentage:0.7987049486366213 memoryBytes:553975808 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716190606982832 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:1 cpuPercentage:0.6108365945521476 memoryBytes:550846464 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217042556 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:89 cpuPercentage:1.437115610324998 memoryBytes:547950592 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217095120 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:99 cpuPercentage:1.4335272331013835 memoryBytes:554160128 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217122743 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:5 cpuPercentage:0.7052596133993999 memoryBytes:561577984 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217147986 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:61 cpuPercentage:1.3841211346816233 memoryBytes:541306880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217172859 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:41 cpuPercentage:0.9744501237163756 memoryBytes:550486016 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217188758 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:21 cpuPercentage:0.9216833672176888 memoryBytes:551219200 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217210628 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:29 cpuPercentage:1.1814606085106505 memoryBytes:552058880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217226445 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:69 cpuPercentage:0.805210422627745 memoryBytes:553025536 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217247997 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:65 cpuPercentage:1.1203583000623987 memoryBytes:559575040 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217272010 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:0 cpuPercentage:0.6740446819166579 memoryBytes:565506048 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217295814 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:57 cpuPercentage:0.7905029076391534 memoryBytes:539213824 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217321344 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:96 cpuPercentage:1.144800685995829 memoryBytes:547540992 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217346813 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:85 cpuPercentage:1.6342367627262244 memoryBytes:547192832 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217372266 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:53 cpuPercentage:1.375946017054015 memoryBytes:547610624 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217399646 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:33 cpuPercentage:0.6232522168383324 memoryBytes:553115648 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217424206 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:25 cpuPercentage:1.2136816125805672 memoryBytes:551653376 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217451510 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:73 cpuPercentage:1.0293704345086068 memoryBytes:544497664 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217495096 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:49 cpuPercentage:0.9786698690256815 memoryBytes:540549120 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217522214 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:13 cpuPercentage:1.26345738255574 memoryBytes:538202112 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217550846 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:45 cpuPercentage:1.3697174563141508 memoryBytes:543096832 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217576535 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:37 cpuPercentage:0.6500172607201974 memoryBytes:554315776 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217602894 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:93 cpuPercentage:5.650715212515901 memoryBytes:541040640 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217628493 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:17 cpuPercentage:0.8698680475101591 memoryBytes:546893824 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217654609 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:3 cpuPercentage:0.7135920789197854 memoryBytes:552747008 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217680678 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:81 cpuPercentage:1.1959207492002644 memoryBytes:533213184 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716195217707020 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:77 cpuPercentage:1.9779343067239397 memoryBytes:551624704 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200010921017 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:75 cpuPercentage:3.4408705486401034 memoryBytes:559235072 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200010971217 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:87 cpuPercentage:1.4963308478601816 memoryBytes:555061248 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200010994284 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:7 cpuPercentage:0.869608161004036 memoryBytes:546459648 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011011628 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"6316a187-0935-4687-82e2-99f44a372a68" instanceIndex:1 cpuPercentage:0.0029380581518308755 memoryBytes:4751360 diskBytes:35680256 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011026844 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:19 cpuPercentage:0.784308441504858 memoryBytes:542269440 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011042665 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:15 cpuPercentage:0.9234711028824627 memoryBytes:551116800 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011058063 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"41f37085-eecc-4057-8cf9-726b1bcc25f5" instanceIndex:0 cpuPercentage:0.012897037499855438 memoryBytes:73474048 diskBytes:167546880 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011076243 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"3a9c9c53-0491-4ccb-9dde-3b4893c53a0e" instanceIndex:0 cpuPercentage:0.8721749316230775 memoryBytes:134701056 diskBytes:328568832 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011098700 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"b1aca68a-19a7-4b4d-aeb1-accf3cff5dca" instanceIndex:0 cpuPercentage:0.07935682596524239 memoryBytes:306323456 diskBytes:163110912 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011122803 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:2 cpuPercentage:0.20331049988151897 memoryBytes:11726848 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011145000 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"1c641084-10fa-457c-8712-90e49f13c8c1" instanceIndex:0 cpuPercentage:0.019897394935279023 memoryBytes:10031104 diskBytes:54001664 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011165875 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:31 cpuPercentage:0.7616268166800405 memoryBytes:558297088 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011187737 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:1 cpuPercentage:0.19164155550460793 memoryBytes:11923456 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011209501 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:47 cpuPercentage:1.2082302164688246 memoryBytes:555130880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011235378 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:35 cpuPercentage:0.7537746229522428 memoryBytes:547098624 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011254376 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:59 cpuPercentage:1.0060590522527022 memoryBytes:542646272 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011277225 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"2e5c017e-ede6-4c06-8f86-65b814ef9ca9" instanceIndex:0 cpuPercentage:0.02374570445809295 memoryBytes:78471168 diskBytes:167546880 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011299370 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:11 cpuPercentage:1.3374517893035607 memoryBytes:560267264 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011322408 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:91 cpuPercentage:1.431488177544016 memoryBytes:531791872 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011343972 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"441c17c1-539c-429a-bf6e-6307bf05a70b" instanceIndex:0 cpuPercentage:0.080583325979978 memoryBytes:301944832 diskBytes:163110912 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011365437 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:39 cpuPercentage:1.544832670659899 memoryBytes:538460160 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011388271 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"24103d4e-df8d-4b44-b1e2-86a92a8aff74" instanceIndex:1 cpuPercentage:0.02316789610907672 memoryBytes:6098944 diskBytes:36556800 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011411824 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:0 cpuPercentage:0.2838094044578816 memoryBytes:13565952 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011442051 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:23 cpuPercentage:1.1331301223116166 memoryBytes:554622976 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011462801 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:79 cpuPercentage:1.3323077495490394 memoryBytes:554672128 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011485606 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:83 cpuPercentage:1.1488837994686754 memoryBytes:538017792 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011507381 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:43 cpuPercentage:1.0439516542576777 memoryBytes:542375936 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011531661 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:67 cpuPercentage:1.4975234793276002 memoryBytes:535322624 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011554636 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:55 cpuPercentage:2.8644633382934885 memoryBytes:565927936 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011575568 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:27 cpuPercentage:1.0582782530773642 memoryBytes:539004928 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011592264 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:51 cpuPercentage:1.0528127654138064 memoryBytes:552083456 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011613861 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:71 cpuPercentage:1.2179928402308247 memoryBytes:535023616 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011636154 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:63 cpuPercentage:1.3569869820888476 memoryBytes:556306432 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011659708 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"d4631e76-29dd-45a3-90e6-7f7c3303832d" instanceIndex:0 cpuPercentage:0.030614667127779018 memoryBytes:86364160 diskBytes:167567360 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011681108 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:9 cpuPercentage:0.7773811970710574 memoryBytes:559034368 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716200011702129 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"de712236-f466-4852-bcee-d06fb7e2a7a5" instanceIndex:0 cpuPercentage:0.040944217443185306 memoryBytes:11640832 diskBytes:71294976 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869298734 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:22 cpuPercentage:1.5984179403744594 memoryBytes:558637056 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869344865 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:34 cpuPercentage:1.0628925001262801 memoryBytes:554848256 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869362742 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:97 cpuPercentage:1.1877149376683285 memoryBytes:542867456 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869371859 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:42 cpuPercentage:3.315970150192699 memoryBytes:541200384 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869379995 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:26 cpuPercentage:0.7262889415597817 memoryBytes:559013888 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869388139 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"6316a187-0935-4687-82e2-99f44a372a68" instanceIndex:0 cpuPercentage:0.0025825740878013055 memoryBytes:2666496 diskBytes:35680256 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869396532 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:50 cpuPercentage:0.9235318397377807 memoryBytes:547463168 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869404797 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:82 cpuPercentage:2.060904057826368 memoryBytes:534278144 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869413501 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:86 cpuPercentage:1.0817199032469902 memoryBytes:538578944 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869428999 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:78 cpuPercentage:0.8939628484584268 memoryBytes:540876800 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869443280 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:2 cpuPercentage:0.7465192447729022 memoryBytes:558395392 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869457680 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:14 cpuPercentage:0.7098727565050204 memoryBytes:556683264 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869471993 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:74 cpuPercentage:1.2441118142196856 memoryBytes:540999680 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869486485 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:4 cpuPercentage:0.7485152154045381 memoryBytes:553598976 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869503114 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:70 cpuPercentage:10.28078829557808 memoryBytes:545751040 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869575875 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:66 cpuPercentage:1.180480773174604 memoryBytes:541233152 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869517989 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:94 cpuPercentage:1.3246091279547927 memoryBytes:518840320 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869532733 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:18 cpuPercentage:0.6927106322751537 memoryBytes:559644672 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869546884 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:58 cpuPercentage:1.11566132306939 memoryBytes:551436288 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869561768 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:30 cpuPercentage:0.7098046970429668 memoryBytes:562135040 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869590076 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:6 cpuPercentage:0.7765760488945814 memoryBytes:557506560 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869604404 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:62 cpuPercentage:0.925621121139282 memoryBytes:562954240 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869678292 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"0851aa07-12af-44bf-ba6d-60c91eff4e1b" instanceIndex:0 cpuPercentage:0.020929758769552748 memoryBytes:106582016 diskBytes:102297600 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869619046 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:38 cpuPercentage:3.6634590335921846 memoryBytes:551329792 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869633320 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"247682bf-fc34-4708-8453-6636dcb85079" instanceIndex:0 cpuPercentage:0.019503101569026713 memoryBytes:6402048 diskBytes:47775744 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869647190 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:46 cpuPercentage:1.4104435929291879 memoryBytes:535162880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869660997 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:54 cpuPercentage:1.7110742471167295 memoryBytes:561147904 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869703377 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"24103d4e-df8d-4b44-b1e2-86a92a8aff74" instanceIndex:0 cpuPercentage:0.028252941544283264 memoryBytes:5570560 diskBytes:36556800 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716217869721830 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"1" ip:"10.0.16.24" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:90 cpuPercentage:1.2256081488076997 memoryBytes:566390784 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605655548 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:56 cpuPercentage:3.220813514059438 memoryBytes:554754048 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605711370 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:80 cpuPercentage:3.2504511553856927 memoryBytes:531640320 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605724390 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:40 cpuPercentage:0.9706772872240813 memoryBytes:529051648 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605733265 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:60 cpuPercentage:1.1320153912041 memoryBytes:540475392 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605743009 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:64 cpuPercentage:1.196478267367836 memoryBytes:562458624 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605751313 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:98 cpuPercentage:1.4042299149936421 memoryBytes:536674304 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605759598 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:84 cpuPercentage:1.356742580262211 memoryBytes:537047040 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605767974 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:20 cpuPercentage:0.8456419108541221 memoryBytes:546193408 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605776104 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:68 cpuPercentage:1.5486533059689709 memoryBytes:542920704 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605785404 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:72 cpuPercentage:1.4610475264979652 memoryBytes:539275264 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605793527 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:12 cpuPercentage:0.7705204627974364 memoryBytes:555192320 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605801500 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:28 cpuPercentage:0.9961282906828759 memoryBytes:557559808 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605812418 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:24 cpuPercentage:0.8516931393670919 memoryBytes:566263808 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605821065 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:52 cpuPercentage:1.2698395344682805 memoryBytes:552382464 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605830808 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:16 cpuPercentage:1.1424299360326045 memoryBytes:554065920 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605839185 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:44 cpuPercentage:0.9309604207766372 memoryBytes:547270656 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605847627 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:36 cpuPercentage:0.7591467668687176 memoryBytes:556888064 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605855504 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:48 cpuPercentage:1.2214724942698747 memoryBytes:544108544 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605863579 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:88 cpuPercentage:1.4215009583138927 memoryBytes:529891328 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605871429 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:10 cpuPercentage:0.9192339679691401 memoryBytes:560680960 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605879374 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:1 cpuPercentage:0.7492696909329664 memoryBytes:550846464 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605887127 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:8 cpuPercentage:1.3711193131271475 memoryBytes:548888576 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605895423 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:92 cpuPercentage:1.4998701670580765 memoryBytes:534392832 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605903212 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:32 cpuPercentage:1.0247959672625346 memoryBytes:551141376 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605911324 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:76 cpuPercentage:1.5482695548595937 memoryBytes:527802368 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716220605919138 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"2" ip:"10.0.16.97" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:95 cpuPercentage:8.552371116297474 memoryBytes:539246592 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241393575 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:0 cpuPercentage:0.881398646864337 memoryBytes:565522432 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241464950 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:41 cpuPercentage:1.3895687514180362 memoryBytes:550866944 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241494300 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:17 cpuPercentage:0.8471218249327923 memoryBytes:546914304 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241520602 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:93 cpuPercentage:1.1559098049233967 memoryBytes:541102080 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241544897 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:53 cpuPercentage:1.3581543694686984 memoryBytes:548081664 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241567510 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:61 cpuPercentage:1.107591190266606 memoryBytes:541478912 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241590477 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:3 cpuPercentage:0.8572474762649518 memoryBytes:552779776 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241614096 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:25 cpuPercentage:1.4840426066732573 memoryBytes:551755776 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241638635 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:69 cpuPercentage:1.07538205339446 memoryBytes:553082880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241660147 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:57 cpuPercentage:3.285124732492952 memoryBytes:540835840 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241686331 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:77 cpuPercentage:0.9505846841005865 memoryBytes:551956480 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241705783 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:13 cpuPercentage:1.232673791380253 memoryBytes:538484736 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241729653 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:21 cpuPercentage:1.1839604937417016 memoryBytes:551301120 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241752743 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:65 cpuPercentage:0.7757894464798353 memoryBytes:559575040 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241780059 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:96 cpuPercentage:1.2493307614495603 memoryBytes:547770368 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241807071 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:37 cpuPercentage:0.8657557870074875 memoryBytes:554303488 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241833845 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:45 cpuPercentage:1.3439989289877066 memoryBytes:543494144 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241854421 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:85 cpuPercentage:1.3090968478923917 memoryBytes:547627008 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241879551 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:5 cpuPercentage:0.9467010729703909 memoryBytes:561586176 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241906746 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:49 cpuPercentage:1.6444748223003014 memoryBytes:541048832 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241931200 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:33 cpuPercentage:0.8462663126581197 memoryBytes:553009152 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241958516 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:99 cpuPercentage:1.2980217605204805 memoryBytes:554622976 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225241987985 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:73 cpuPercentage:0.9340295447119008 memoryBytes:544772096 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225242016377 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:29 cpuPercentage:0.9200671508744462 memoryBytes:552058880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225242043368 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:81 cpuPercentage:1.6645094608239845 memoryBytes:533757952 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716225242069182 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"3" ip:"10.0.16.98" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:89 cpuPercentage:1.4489865938527415 memoryBytes:548503552 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026114216 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:67 cpuPercentage:1.2205471347258028 memoryBytes:535691264 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026166560 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:51 cpuPercentage:1.1296702685089233 memoryBytes:552235008 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026190894 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"1c641084-10fa-457c-8712-90e49f13c8c1" instanceIndex:0 cpuPercentage:0.0197871523054943 memoryBytes:10031104 diskBytes:54001664 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026247500 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:55 cpuPercentage:1.451623604763097 memoryBytes:566149120 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026267992 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:39 cpuPercentage:1.1293713332353754 memoryBytes:538492928 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026292700 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:47 cpuPercentage:1.6046833356861674 memoryBytes:555548672 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026317390 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"24103d4e-df8d-4b44-b1e2-86a92a8aff74" instanceIndex:1 cpuPercentage:0.026900942922645187 memoryBytes:6098944 diskBytes:36556800 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026339835 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:87 cpuPercentage:1.115273273072942 memoryBytes:555335680 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026361723 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"d4631e76-29dd-45a3-90e6-7f7c3303832d" instanceIndex:0 cpuPercentage:0.0301826176142618 memoryBytes:86364160 diskBytes:167567360 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026386675 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:19 cpuPercentage:0.8909155970286697 memoryBytes:542261248 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026418558 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:43 cpuPercentage:3.1048368595686915 memoryBytes:542883840 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026440260 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:35 cpuPercentage:0.8108790141797293 memoryBytes:547106816 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026472875 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"3a9c9c53-0491-4ccb-9dde-3b4893c53a0e" instanceIndex:0 cpuPercentage:1.7831002713444 memoryBytes:134701056 diskBytes:328568832 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026496219 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:11 cpuPercentage:1.3344549004811515 memoryBytes:560312320 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026520362 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:0 cpuPercentage:0.29934777464041695 memoryBytes:13565952 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026542598 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"6316a187-0935-4687-82e2-99f44a372a68" instanceIndex:1 cpuPercentage:0.0029506223501396234 memoryBytes:4751360 diskBytes:35680256 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026564368 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:1 cpuPercentage:0.23802586724336394 memoryBytes:11923456 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026596444 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:75 cpuPercentage:1.560520401612551 memoryBytes:559464448 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026619513 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:15 cpuPercentage:0.8269956453880879 memoryBytes:551165952 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026642114 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"784c0af0-9c20-4d27-90ca-9b467b009a32" instanceIndex:2 cpuPercentage:0.2107995091243596 memoryBytes:11726848 diskBytes:72654848 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026665055 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:83 cpuPercentage:1.4200516907456802 memoryBytes:538234880 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026686344 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:23 cpuPercentage:0.9660893059703165 memoryBytes:554659840 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026718211 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:63 cpuPercentage:1.1501477478710673 memoryBytes:556601344 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026741191 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:7 cpuPercentage:1.3478055758166705 memoryBytes:546545664 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026762884 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"441c17c1-539c-429a-bf6e-6307bf05a70b" instanceIndex:0 cpuPercentage:0.07983987913445928 memoryBytes:301944832 diskBytes:163110912 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026795317 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"b1aca68a-19a7-4b4d-aeb1-accf3cff5dca" instanceIndex:0 cpuPercentage:0.08784803347569879 memoryBytes:306323456 diskBytes:163110912 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026818582 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"de712236-f466-4852-bcee-d06fb7e2a7a5" instanceIndex:0 cpuPercentage:0.02537899370033421 memoryBytes:11640832 diskBytes:71294976 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026843717 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:59 cpuPercentage:0.9394171105338684 memoryBytes:542924800 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026877460 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"41f37085-eecc-4057-8cf9-726b1bcc25f5" instanceIndex:0 cpuPercentage:0.028197276406046676 memoryBytes:73474048 diskBytes:167546880 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026899290 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:9 cpuPercentage:0.7781682569193751 memoryBytes:559017984 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026921256 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:31 cpuPercentage:0.8673071999587048 memoryBytes:558325760 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026954974 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"2e5c017e-ede6-4c06-8f86-65b814ef9ca9" instanceIndex:0 cpuPercentage:0.13524423342381472 memoryBytes:78471168 diskBytes:167546880 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026975865 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:91 cpuPercentage:1.2256759073044055 memoryBytes:532377600 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230026998134 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:79 cpuPercentage:1.1241730458619241 memoryBytes:554741760 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230027020540 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:27 cpuPercentage:0.8406426273284208 memoryBytes:539090944 diskBytes:188747776 >  
+
+origin:"rep" eventType:ContainerMetric timestamp:1449716230027052371 deployment:"cf" job:"diego_cell-partition-f99bec444d276db0e93a" index:"0" ip:"10.0.16.23" containerMetric:<applicationId:"401bc7a3-0fa7-489b-b97c-9e2c8e4a186a" instanceIndex:71 cpuPercentage:1.5196225606281566 memoryBytes:535502848 diskBytes:188747776 >  
+
+websocket: close 1008 Client did not respond to ping before keep-alive timeout expired.
