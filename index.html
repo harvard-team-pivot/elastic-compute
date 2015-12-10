@@ -445,8 +445,12 @@
                     was using.<br>
                     We installed a plugin that would export the metrics following the instructions at the <a
                         href="https://github.com/cloudfoundry/firehose-plugin">firehose-plugin site</a>. Then we
-                    ran the following commands cf nozzle -f ContainerMetric > ContainerMetricPaaS4.txt , cf nozzle -f
-                    ValueMetric > valueMetricSaaS2.txt which piped the output to a file.
+                    ran the following commands
+
+                    <pre>
+                    cf nozzle -f ContainerMetric > ContainerMetricPaaS4.txt
+                    cf nozzle -f ValueMetric > valueMetricSaaS2.txt which piped the output to a file.
+                    </pre>
                 </p>
 
             </div>
