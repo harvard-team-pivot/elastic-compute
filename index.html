@@ -463,14 +463,14 @@
                 <p class="copy">
                     <!--Robert/Sean: Copy me to add a new section of analysis with a viz. See the "### Start copy" and "###
                     End copy" comments in the code and just copy a new block for each. -->
-                    Just to get a sense of general performance across the different services, we plotted the three different 
-                    readings: memory usage, disk usage, and CPU utilization. For easy readibility, 
+                    Just to get a sense of general performance across the different services, we plotted the three different
+                    readings: memory usage, disk usage, and CPU utilization. For easy readibility,
                     we have removed the exact timestamps from our x-axis. Below is an example lot of disk usage for PaaS:
-                    
-                    
-                    
-                    
-                    
+
+
+
+
+
                 </p>
                 <figure>
                     <img class="img-responsive" src="visualizations/diskPaaS.png"
@@ -489,13 +489,13 @@
                 <p class="copy">
                     <!--Robert/Sean: Copy me to add a new section of analysis with a viz. See the "### Start copy" and "###
                     End copy" comments in the code and just copy a new block for each. -->
-                    We took a look at our container data again, this time grouped by application, IP address, and Instance Index. 
+                    We took a look at our container data again, this time grouped by application, IP address, and Instance Index.
                     Cloud Foundry assigns each application a UUID (Universally Unique Identifier) that we can use to identify a single application.
                     Below is a sample plot of memory consumption, grouped by application.
-                    
-                    
-                    
-                    
+
+
+
+
                 </p>
                 <figure>
                     <img class="img-responsive" src="visualizations/memoryPerApp.png"
@@ -507,8 +507,8 @@
 
             </div>
             <!-- ### End copy from here to add a new section of image followed by analysis ### -->
-            
-            
+
+
             <!-- ### Start copy from here to add a new section of image followed by analysis ### -->
             <div class="">
                 <br><br>
@@ -516,10 +516,10 @@
                 <p class="copy">
                     <!--Robert/Sean: Copy me to add a new section of analysis with a viz. See the "### Start copy" and "###
                     End copy" comments in the code and just copy a new block for each. -->
-                    We then analyzed some of the relationships between memory/disk usage and CPU utilization in more detail on 
-                    an app by app basis. For further analysis, we should be concerned with instances and applications that appear in the top right or bottom left corners of these plots 
-                    - areas where both CPU Utilization and Memory/Disk Usage are considered to be high or low. 
-                    When a process is in this area, we can begin to consider scaling out compute resources. Likewise, if we are residing in an area 
+                    We then analyzed some of the relationships between memory/disk usage and CPU utilization in more detail on
+                    an app by app basis. For further analysis, we should be concerned with instances and applications that appear in the top right or bottom left corners of these plots
+                    - areas where both CPU Utilization and Memory/Disk Usage are considered to be high or low.
+                    When a process is in this area, we can begin to consider scaling out compute resources. Likewise, if we are residing in an area
                     with low usage for both, we can start to ratchet down compute resources to scale them in.
                 </p>
                 <figure>
@@ -561,9 +561,15 @@
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Prediction</h2>
 
-                <p class="lead">The outcome of the ....</p>
-
-                <p class="copy">Findings</p>
+                <p class="lead">Our limited model illustrates the possibility of reducing energy usage by a terawatt in the near future.</p>
+                Findings
+                <p class="copy">
+                Our data allowed us to group high and low utilization applications.
+                We will be able to segregate the high usage services, with common patterns, through anti-affinity rules while letting the others fill in the gaps.
+                Moreover, these pattern identification methods allow us to predict scaling needs before thresholds are met.
+                This will allow us to scale out, along with scaling in as demand fades.
+                The capability to reduce capacity will cut down on future electricity consumption.
+                </p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="img/underwater-iceberg.jpg" alt="">
